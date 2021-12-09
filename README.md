@@ -20,6 +20,8 @@ git clone https://github.com/Mbokey/cloning
 
 ls
 
+ctrl.fb.jalan.sh
+
 cd cloning
 
 python crack.py
