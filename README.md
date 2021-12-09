@@ -14,13 +14,19 @@ pkg install update && pkg install upgrade
 
 pkg install python
 
+pip2 install requests
+
+pip2 install mechanize
+
+pip2 install futures
+
+pip2 install bs4
+
 pkg install git
 
 git clone https://github.com/Mbokey/cloning
 
 ls
-
-ctrl.fb.jalan.sh
 
 cd cloning
 
