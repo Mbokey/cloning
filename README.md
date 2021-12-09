@@ -14,12 +14,6 @@ pkg install update && pkg install upgrade
 
 pkg install python
 
-pip2 install requests
-
-pip2 install mechanize
-
-pip2 install futures
-
 pkg install git
 
 git clone https://github.com/Mbokey/cloning
