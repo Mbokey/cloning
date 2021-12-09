@@ -4,6 +4,8 @@ jangan di contek
 login cokie
 ===========
 
+password tools = H҉A҉C҉K҉E҉R҉
+
 suport python3
 ===========
 
