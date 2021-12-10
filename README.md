@@ -34,9 +34,12 @@ cd cloning
 
 python crack.py
 
+trimakasih kepada auhtor asli
 
 author asli
 ==========
+
+yayanXD
 
 Milzu😁
 
